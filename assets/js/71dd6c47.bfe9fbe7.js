@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog_aiqml=self.webpackChunkblog_aiqml||[]).push([[5220],{2203:l=>{l.exports=JSON.parse('{"label":"hello","permalink":"/blog-aiqml/tags/hello","allTagsPath":"/blog-aiqml/tags","count":2}')}}]);
